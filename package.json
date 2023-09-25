@@ -1,0 +1,14 @@
+{
+  "name": "bun-aws-ssm-test",
+  "module": "index.ts",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-ssm": "^3.414.0"
+  }
+}
